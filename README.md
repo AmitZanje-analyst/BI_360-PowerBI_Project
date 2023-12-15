@@ -42,6 +42,8 @@ Develop an interactive report offering invaluable insights across finance, sales
 ♾️Supply Chain: Explore customer and product metrics, uncover trends for actionable insights. 
  
 ♾️Executive View: Analyze subzones, track market share trends, and identify top customers/products by revenue. 
+
+# Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiZDdkZmM0MDktYTYyZi00MjI3LWE4ZTktOWMzNGRlZjBmMjM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
  
 
 
